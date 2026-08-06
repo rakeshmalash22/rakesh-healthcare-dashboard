@@ -359,7 +359,6 @@ return (
     : darkMode
     ? "#1f1f1f"
     : "#fff",
-  alignItems: "center",
   marginBottom: "15px",
   cursor: "pointer",
   padding: "8px",
